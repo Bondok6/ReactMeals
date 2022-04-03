@@ -1,6 +1,6 @@
 # React Meals
 
-> React Meals is a simple food order app allow users to add meals to the cart also change their amounts and add them multiple times and of course we can also view thea carts to see what's in the cart. 
+> React Meals is a simple food order app allow users to add meals to the cart also change their amounts and add them multiple times and of course we can also view the carts to see what's in the cart. 
 
 
 
